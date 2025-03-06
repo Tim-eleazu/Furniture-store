@@ -1,13 +1,13 @@
 # Furniture-store
 ## ***A simple website provisioned entirely by Terraform***
-![Alt text](DIagrams/website_sample.png)
+![Alt text](Diagrams/website_sample.png)
 
 > This project provisions a sample furniture store website on AWS, hosted on EC2 behind an ALB. An Auto Scaling Group (ASG) maintains at  least 2 instances, scaling up to 4 based on demand
 
 <br>
 
 ## ***Architectural Diagram***
-![Alt text](DIagrams/Furniture_App.drawio.png)
+![Alt text](Diagrams/Furniture_App.drawio.png)
 
 <br>
 
